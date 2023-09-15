@@ -18,11 +18,14 @@ data represents information from a marketing campaign,information about the prod
 -tabulate
 
 You can install them using pip:
+```bash
 pip install pandas numpy matplotlib scikit-learn tabulate
-
+```
 
 ## Usage
+```bash
 Use dataset file (sports_wear.csv) in the data/ folder.
-
+```
 ## Results:
 -The performance of each model can be evaluated using classification_report and confusion_matrix .The results of the model evaluation can be found in the Notebook.
+-You can check the Report if you want to know everything about the project in brief
